@@ -1,0 +1,25 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "dockhubtest",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1735277853188,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.8.0",
+    "jwtSecretKey": "ZDAyYTE2NGU0ZmZhZWZhMDEyZWZlMzdmODI2ZmJkMzdlMTQ1NzZhYjlmYWVlMWE1ZGJkZThkZDljMWViZmZkNWI4MzY4NGUxMjc1YjMwMWM5MTU4NDM4MGFiOWZhY2NlMDgzMmI3OTM2ZDZhZDVlMzVhM2FlODVjYTZiYzQyNzk=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": ["cypress"],
+    "websocket": null
+  }
+}
