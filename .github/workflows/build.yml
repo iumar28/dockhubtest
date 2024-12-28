@@ -50,4 +50,4 @@ jobs:
       # Step 8: Push Docker image to Docker Hub
       - name: Push Docker Image
         run: |
-          docker push ${{ secrets.DOCKER_USERNAME }}/jhipster:latest
+          docker push ${{ secrets.DOCKER_USERNAME }}/umarfiroz:latest
